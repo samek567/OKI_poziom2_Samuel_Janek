@@ -1,0 +1,9 @@
+Artykuly na Codeforces z Mo, wiekszosc nie czytalem wiec nwm jakie,
+cel to byl pogropowac mniej wiecej co jest na cf-ie:
+- https://codeforces.com/blog/entry/81716 (ogolny spis o Mo)
+- https://codeforces.com/blog/entry/7383 (Lekki opis Mo)
+- https://codeforces.com/blog/entry/72690 (z tego sie uczylem Mo z updatami, nawet git artykul)
+- https://codeforces.com/blog/entry/61203 (ciekawe nawet, inny sort w Mo)
+- https://codeforces.com/blog/entry/83630 (ciekawe 3d Mo)
+- https://codeforces.com/blog/entry/43230 (Mo na drzewie, to wydaje sie fajne)
+- https://codeforces.com/blog/entry/68271 (kolejne na Mo na drzewie)
