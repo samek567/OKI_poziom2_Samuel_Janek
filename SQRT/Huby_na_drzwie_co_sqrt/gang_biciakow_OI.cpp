@@ -124,6 +124,7 @@ inline int query()
 
 int main()
 {
+    // Gang Biciakow 1 etap XXVIII OI: https://szkopul.edu.pl/problemset/problem/v7LhQdIK3z6mWSVH4I7F266w/site/?key=statement
     // Nazwijmy wierzcholek ciezkim, gdy jego glebokosc jest podzielna przez K oraz najdluzsza sciezka w jego poddrzewie >= K.
     // Wtedy przy query idziemy do pierwszego wierzcholka ciezkiego, a przy update, aktualizujemy wszystkie wierzcholki ciezkie,
     // ktore sa w poddrzewie krawedzi co update.
